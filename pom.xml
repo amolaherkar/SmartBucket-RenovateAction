@@ -12,7 +12,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.0.2</version>
+		<version>1.4.2.RELEASE</version>
 	</parent>
 
 	<properties>
@@ -37,7 +37,7 @@
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
-			<version>5.2.3</version>
+			<version>3.3.7</version>
 		</dependency>
 
 	</dependencies>
