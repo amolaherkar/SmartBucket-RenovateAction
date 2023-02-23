@@ -1,14 +1,13 @@
 module.exports = {
-  branchPrefix: 'test-renovate/',
+  branchPrefix: 'Smart-',
   username: 'renovate-release',
-  gitAuthor: 'Renovate Bot <bot@renovateapp.com>',
+  gitAuthor: 'Renovate Bot <amolaherkar@gmail.com>',
   onboarding: false,
   platform: 'github',
   includeForks: true,
   dryRun: 'full',
   repositories: [
-    'renovate-tests/cocoapods1',
-    'renovate-tests/gomod1',
+    'amolaherkar/SmartBucket-RenovateAction'
   ],
   packageRules: [
     {
