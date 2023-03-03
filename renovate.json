@@ -5,6 +5,5 @@
   ],
    "enabledManagers": [ 
     "composer", 
-    “npm" 
-  ]
+    “npm"]
 }
