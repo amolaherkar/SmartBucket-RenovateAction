@@ -10,19 +10,4 @@ module.exports = {
   repositories: [
     'amolaherkar/SmartBucket-RenovateAction'
   ],
-  packageRules: [
-    {
-      description: 'lockFileMaintenance',
-      matchUpdateTypes: [
-        'pin',
-        'digest',
-        'patch',
-        'minor',
-        'major',
-        'lockFileMaintenance',
-      ],
-      dependencyDashboardApproval: false,
-      stabilityDays: 0,
-    },
-  ],
 };
