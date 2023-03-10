@@ -6,6 +6,7 @@ module.exports = {
   platform: 'github',
   includeForks: true,
   dryRun: 'full',
+  recreateClosed: 'true',
   repositories: [
     'amolaherkar/SmartBucket-RenovateAction'
   ],
